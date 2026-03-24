@@ -1,101 +1,160 @@
-👋 Shaukat Ali 
+# 👋 Muhammad Anish Bilal
 
-DevOps & Cloud Engineer | CI/CD Automation Specialist | Kubernetes & Terraform Practitioner 
- 
-💻 About Me 
+🚀 **Junior DevOps Engineer | Cloud & Infrastructure Automation | AWS • Azure • Kubernetes • Terraform**
 
-Hi! I'm Shaukat Ali, a passionate DevOps & Cloud Engineer based in Islamabad, Pakistan. I specialize in building scalable, secure, and automated cloud-native systems using modern DevOps practices.   
+---
 
-I help teams accelerate delivery, improve reliability, and embrace infrastructure-as-code through:   
+## 💻 About Me
 
-    CI/CD Pipeline Automation (GitHub Actions, GitLab, Jenkins)  
-    Cloud Infrastructure on AWS & Azure  
-    Container Orchestration with Kubernetes & Helm  
-    Infrastructure as Code (Terraform)  
-    Observability with Prometheus & Grafana  
-    Dockerized Application Deployment & Management
-     
+Hi! I'm **Muhammad Anish Bilal**, a DevOps and Cloud enthusiast based in **Islamabad, Pakistan**.
 
- 
-🌐 Portfolio & Projects 
+I specialize in **cloud infrastructure automation, CI/CD pipelines, and containerized deployments**. I enjoy building scalable, secure, and reliable systems using modern DevOps practices.
 
-    🔗 Portfolio Website   
-    🛠️ CI/CD on Azure with Terraform   
-    ☁️ AWS Cloud Optimization Project   
-    💬 3-Tier Chat App on Minikube (K8s)   
-    🐍 Flask + MySQL Dockerized App 
-     
+My focus areas include:
 
-    (Replace # with live project links or GitHub repos when ready) 
-     
+- ☁️ Cloud Infrastructure (AWS, Azure, DigitalOcean)
+- ⚙️ Infrastructure as Code with Terraform
+- 🐳 Containerization with Docker
+- ☸️ Kubernetes for orchestration
+- 🔁 CI/CD automation using GitHub Actions & GitLab
+- 📊 Monitoring & observability (Prometheus, Grafana)
+- 🔐 Security hardening and infrastructure optimization
 
- 
-📊 Key Experience Highlights 
+I enjoy solving infrastructure problems and building **end-to-end automated DevOps pipelines**.
 
-    DevOps Engineer @ Evamp and Saanga (Apr 2025 – Present)   
-        Automated CI/CD using GitHub Actions & GitLab  
-        Managed deployments with Kubernetes & Helm  
-        Implemented monitoring via Prometheus & Grafana
-         
+---
 
-    DevOps Engineer @ Meta Sol (Aug 2024 – Apr 2025)   
-        Built cloud infrastructure on AWS & Azure using Terraform  
-        Enforced security and observability best practices
-         
+## 🌐 Portfolio
 
-    Cloud Computing Mentorship @ Navtac (Feb–Apr 2025)   
-        Hands-on labs with AWS, Azure, GCP, VMs, storage, and security
-         
-     
+🔗 **Portfolio Website**  
+https://malikanish.github.io/
 
- 
-📚 Education 
+🔗 **LinkedIn**  
+https://linkedin.com/in/malik-anish-27846327a
 
-    BS in Information Technology
-    Bahria University, Islamabad (Jan 2021 – Jan 2025)  
-    HSSC (Pre-Engineering)
-    APSACS Pothwar Complex, FBISE (2017–2019)
-     
+---
 
- 
-🔗 Connect with Me 
-<p align="left">
-  <a href="https://www.linkedin.com/in/i-shaukat-ali" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" />
-  </a>
-  <a href="mailto:contactme.shaukat14@gmail.com" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/gmail.svg" alt="Email" height="30" width="30" />
-  </a>
-</p>
+# 💼 Professional Experience
 
- 
-📈 Skills & Tools 
-<p align="left">
-  <img src="https://img.shields.io/badge/Linux-Shell_Scripting-333?style=flat-square&logo=linux" />
-  <img src="https://img.shields.io/badge/Kubernetes-K8s-326CE5?style=flat-square&logo=kubernetes" />
-  <img src="https://img.shields.io/badge/Terraform-IaC-7B42BC?style=flat-square&logo=terraform" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-CI/CD-2088FF?style=flat-square&logo=githubactions" />
-  <img src="https://img.shields.io/badge/GitLab-CI/CD-FC6D26?style=flat-square&logo=gitlab" />
-  <img src="https://img.shields.io/badge/AWS-Cloud-FF9900?style=flat-square&logo=amazonaws" />
-  <img src="https://img.shields.io/badge/Microsoft_Azure-Cloud-0089D6?style=flat-square&logo=microsoftazure" />
-  <img src="https://img.shields.io/badge/Prometheus-Monitoring-E6522C?style=flat-square&logo=prometheus" />
-  <img src="https://img.shields.io/badge/Grafana-Observability-F46800?style=flat-square&logo=grafana" />
-  <img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=flat-square&logo=docker" />
-  <img src="https://img.shields.io/badge/ELK_Stack-Logging-005571?style=flat-square&logo=elasticsearch" />
-</p>
+## 🚀 Junior DevOps Engineer — SkyOps  
+📍 On-site | Feb 2025 – Present
 
- 
-📞 Contact 
+- Automated **cloud infrastructure provisioning using Terraform** with modular reusable code, reducing manual errors by **70%**.
+- Managed AWS services including **ECS, EKS, S3, CloudFront, ALB, and Auto Scaling** for scalable and secure deployments.
+- Implemented **self-hosted GitHub runners with Auto Scaling** using Launch Templates, Auto Scaling Groups, and Lambda webhooks, reducing operational costs by **80%**.
+- Built and maintained **CI/CD pipelines using GitHub Actions and Bash scripting**.
+- Configured **monitoring, logging, and alerting** to improve reliability and incident response.
+- Collaborated with developers to deploy **containerized applications** efficiently.
 
-    Phone: +92 322-3543475  | +92 312-8597835   
-    Email: contactme.shaukat14@gmail.com   
-    Location: Islamabad, Pakistan
-     
+---
 
- 
-⚡ Fun Fact 
+## ☁️ Cloud Computing Intern — Digital Empowerment Network  
+📍 Remote | Jul 2024 – Oct 2024
 
-I enjoy building end-to-end DevOps pipelines from scratch — from provisioning cloud resources with Terraform to deploying apps on Kubernetes and visualizing metrics in Grafana! 🚀   
- 
+- Implemented **AWS Auto Scaling** for dynamic compute resource management.
+- Deployed and hosted **static websites using AWS S3** with scalable storage architecture.
 
-Let’s connect and engineer the future, one pipeline at a time!
+---
+
+## 🔐 Cyber Security Analyst — Cyber Reconnaissance and Combat Center  
+📍 Jul 2024 – Oct 2024
+
+- Conducted **vulnerability assessments, log analysis, and incident response**.
+- Managed security tools including **Snort IDS, pfSense firewalls, and OWASP ZAP penetration testing**.
+- Implemented and maintained **SIEM monitoring using Wazuh**.
+
+---
+
+# 🛠️ Projects
+
+## ☸️ Kubernetes 3-Tier Chat Application
+
+- Deployed **three-tier architecture (Frontend, Backend, Database)** on Kubernetes.
+- Configured **services, deployments, and ingress controllers**.
+- Implemented **rolling updates and monitoring using Prometheus & Grafana with Helm**.
+
+---
+
+## ☁️ Infrastructure Automation & WordPress Deployment on AWS
+
+- Built production-ready **AWS infrastructure using Terraform** (VPC, ECS, ALB, clusters).
+- Deployed **WordPress on ECS with dynamic database connectivity**.
+- Automated infrastructure lifecycle with **GitHub Actions & Bash scripting**.
+
+---
+
+## 🐳 Containerized Flask Web Application
+
+- Developed **Flask + MySQL application containerized with Docker**.
+- Managed multi-container setup using **Docker Compose**.
+- Configured **secure inter-container communication**.
+
+---
+
+## 🎮 Final Year Project — Multivendor Gaming Store (MERN)
+
+- Built **multivendor gaming platform using MongoDB, Express, React, Node.js**.
+- Implemented:
+  - Vendor management
+  - Secure authentication
+  - Payment gateway integration
+  - Real-time chat
+  - Analytics dashboard
+
+---
+
+# 📜 Certifications
+
+- Dicecamp **DevOps Crash Course**
+- **Microsoft Certified Azure Administrator Associate**
+- Kodekloud **Git for Beginners**
+- Kodekloud **Shell Scripting**
+- Digital Empowerment Network **Cloud Computing**
+- Kodekloud **Linux Course**
+- **Terraform Course**
+
+---
+
+# 🎓 Education
+
+**Bachelor of Science in Information Technology**  
+Bahria University, Islamabad  
+2021 – 2025
+
+---
+
+# 🧰 Skills & Tools
+
+### ☁️ Cloud Platforms
+AWS • Azure • DigitalOcean
+
+### 🐳 Containers & OS
+Linux • Docker • Kubernetes
+
+### ⚙️ DevOps & Automation
+Terraform • GitHub Actions • GitLab CI/CD • Bash
+
+### 🌐 Web Servers
+Nginx • Apache
+
+### 💻 Programming
+C++ • MySQL • Problem Solving
+
+### 📊 Monitoring & Logging
+Prometheus • Grafana
+
+---
+
+# 📞 Contact
+
+📧 Email: **anishbilal001@gmail.com**  
+📱 Phone: **03065157979**  
+📍 Location: **Islamabad, Pakistan**
+
+---
+
+# ⚡ Fun Fact
+
+I enjoy building **complete DevOps pipelines from infrastructure provisioning to automated deployments and monitoring dashboards.**
+
+🚀 *Turning infrastructure into code and scaling applications the DevOps way!*
